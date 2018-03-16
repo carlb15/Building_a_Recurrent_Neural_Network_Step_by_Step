@@ -10,3 +10,6 @@ Implementing a [Recurrent Neural Network (RNN)](https://en.wikipedia.org/wiki/Re
 3. Implement Back Propagation  
    a. RNN Back Propagation Cell  
    b. LSTM Back Propagation Cell  
+
+# Credit:
+[Sequence Models Course for Deep Learning Specialization](https://www.coursera.org/learn/nlp-sequence-models)
